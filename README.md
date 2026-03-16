@@ -174,7 +174,7 @@ If you use this work in your research, please cite:
 IT Solutions & Web Expert | Techno Experts
 📧 suresh@technoexperts.co
 🌐 [technoexperts.co](https://www.technoexperts.co/)
-🔗 [linkedin.com/in/suresh-shinde](https://linkedin.com/in/suresh-shinde)
+🔗 [linkedin.com/in/suresh-shinde-engineer](https://www.linkedin.com/in/suresh-shinde-engineer/)
 
 ---
 
